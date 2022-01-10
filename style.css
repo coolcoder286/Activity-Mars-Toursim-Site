@@ -76,8 +76,11 @@ p{
 
 button{
     margin:5px;
+    background-color:blue;
+    padding:10px;
+    border:none;
 }
 
 button:hover{
-    background-color:blue;
+    background-color:light blue;
 }
