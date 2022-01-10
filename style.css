@@ -73,3 +73,11 @@ p{
     height: 20%;
     margin-left: 10px;
 }
+
+button{
+    margin:5px;
+}
+
+button:hover{
+    background-color:blue;
+}
